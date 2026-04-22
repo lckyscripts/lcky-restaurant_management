@@ -171,7 +171,7 @@ ensure ox_lib
 ensure oxmysql
 ensure ox_inventory
 ensure ox_target
-ensure spc-restaurant_management
+ensure lcky-restaurant_management
 ```
 
 ### Step 5 — Add ACE Permission (Admin)

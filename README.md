@@ -148,8 +148,8 @@ cancelled  cancelled  cancelled  cancelled
 ### Step 1 — Place the Resource
 ```
 resources/
-└── [spc-scripts]/
-    └── spc-restaurant_management/
+└── [LuckyScripts]/
+    └── lcky-restaurant_management/
 ```
 
 ### Step 2 — Import the Database
